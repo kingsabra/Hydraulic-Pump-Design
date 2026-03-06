@@ -1,0 +1,11 @@
+# SolidWorks / CAD
+*.sldbak
+*.swp
+~*
+
+# Optional: uncomment to exclude add-in logs from repo
+# misc/console.log
+
+# OS
+.DS_Store
+Thumbs.db
